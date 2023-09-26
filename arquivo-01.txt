@@ -8,3 +8,6 @@ testando um conflito com o pull --rebase
 
 usando o pull -rebase
 
+outro teste com rebase
+
+
