@@ -3,3 +3,4 @@ aqui vem o conflito
 
 testando um conflito no pull
 
+testando um conflito com o pull --rebase
