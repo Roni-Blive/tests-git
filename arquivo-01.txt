@@ -8,4 +8,4 @@ começando dos testes de hoje
 criando conflito novamente
 
 
-resolvento com rebase teste 05
+resolvento com rebase teste 06
