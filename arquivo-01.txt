@@ -7,4 +7,5 @@ começando dos testes de hoje
 
 criando conflito novamente
 
-resolvento com rebase teste 04
+
+resolvento com rebase teste 05
