@@ -1,5 +1,4 @@
-<<<<<<< Updated upstream
-
+teste stash
 teste 02
 
 teste stash
