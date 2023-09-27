@@ -12,3 +12,6 @@ criando conflito novamente
 
 
 resolvento com rebase teste 13
+
+testando git extensions
+
