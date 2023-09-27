@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-
 causando um conflito
-=======
-conflito
->>>>>>> 3b073183009d8f5dd6d7efcff9e3e503b75eaa99
