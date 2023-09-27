@@ -1,5 +1,9 @@
+<<<<<<< Updated upstream
 
 teste 02
 
 teste stash
 
+=======
+teste stash
+>>>>>>> Stashed changes
