@@ -1,1 +1,4 @@
 testando git pull --rebase
+
+teste stash
+
