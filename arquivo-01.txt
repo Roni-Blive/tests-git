@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 causando um conflito
+=======
+agora sim o conflito
+>>>>>>> c349774f567094789bad488c8ac4416980fb3b66
