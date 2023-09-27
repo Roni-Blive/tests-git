@@ -1,14 +1,1 @@
-
-
-primerio conflito do dia 1
-
-começando dos testes de hoje
-
-
-criando conflito novamente
-
-
-
-
-
-resolvento com rebase teste 13
+causando um conflito
